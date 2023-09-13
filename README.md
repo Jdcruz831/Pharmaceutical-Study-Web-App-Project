@@ -21,9 +21,6 @@ https://docs.google.com/presentation/d/1ztrrF4vq9vsqPsltdld-QiT9-SA6IdFIfSAvAmyX
 # Project Demo Video:
 https://www.youtube.com/watch?v=K2LDj28C5iA
 
-# My Contributions
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Angkaram&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
-
 # A Quick Look at the Homepage and Login/Create Account Pages
 ![](https://github.com/Angkaram/Pharmaceutical-Study-Web-App-Project/blob/main/projectGIF.gif)
 
